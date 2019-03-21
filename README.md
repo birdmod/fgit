@@ -1,0 +1,2 @@
+# fgit
+RGit... in F#
